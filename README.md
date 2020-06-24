@@ -1,4 +1,4 @@
-# MVP---Pure-PHP
+# MVC -Pure PHP
 CRUD en el que implemento el patrón MVC si ningún tipo de framework **( MYSQL + PHP + POO )**, unicamente se necesita el PDO de MYSQL.
 
 # Base de datos
